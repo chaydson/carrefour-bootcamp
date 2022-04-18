@@ -5,8 +5,18 @@
     }
 
     .botao{
+        display: flex;
         margin-top: 5px;
         width: 300px;
+    }
+
+    .botao i{
+        margin-left: 50px;
+        margin-right: 15px;
+    }
+
+    .assistir-agora{
+        margin-left: 2px;
     }
 }
 
