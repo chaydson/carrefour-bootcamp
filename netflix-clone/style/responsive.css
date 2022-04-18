@@ -25,3 +25,10 @@
         width: 50%;
     }
 }
+
+
+@media screen and (max-width:460px){
+    .main-content{
+        margin-bottom: 30px;
+    }
+}
